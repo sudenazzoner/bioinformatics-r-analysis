@@ -108,7 +108,3 @@ source("homework_part_1.R")
 ```
 
 ---
-
-## 👤 Author
-[Your Name] — Molecular Biology Graduate  
-Applying to M.Sc. Precision Medicine, University of Vienna
